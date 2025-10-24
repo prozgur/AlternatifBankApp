@@ -1,0 +1,13 @@
+tarih,islem_tipi,aciklama,tutar,para_birimi
+2025-10-10,QR Ödeme,Restoran Lezzet,73.76,TRY
+2025-10-11,Fatura Ödeme,Shell,644.08,TRY
+2025-10-12,Havale Giden,Shell,897.15,TRY
+2025-10-13,Pos İade,Migros,643.8,TRY
+2025-10-14,Havale Gelen,İnternetNet,261.06,TRY
+2025-10-15,Pos İade,Eczane Sağlık,741.27,TRY
+2025-10-16,Pos İade,Shell,329.43,TRY
+2025-10-17,Kart Harcaması,A101,294.18,TRY
+2025-10-18,Kart Harcaması,Migros,634.58,TRY
+2025-10-19,Havale Gelen,Shell,272.48,TRY
+2025-10-20,QR Ödeme,A101,587.21,TRY
+2025-10-21,Kart Harcaması,Migros,851.55,TRY

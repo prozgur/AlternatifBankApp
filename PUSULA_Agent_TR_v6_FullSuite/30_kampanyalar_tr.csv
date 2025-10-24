@@ -1,0 +1,10 @@
+kampanya_id,baslik,kategori,tek_cumle_ozet,baslangic,bitis,bonus_tl,min_harcama_tl,kanal
+KMP_MKT_001,Market Harcamasına 150 TL Bonus,market,Ekim boyunca 500 TL market alışverişine 150 TL bonus.,2025-10-01,2025-10-31,150,500,Kredi Kartı
+KMP_MKT_002,Marketlerde %5 İade (Aylık 200 TL),market,"Market ödemelerinde %5 iade, ayda 200 TL’ye kadar.",2025-11-01,2026-01-31,200,0,Kredi/Debit
+KMP_TRN_001,Ulaşımda %10 Para İadesi,transport,"Ulaşım ödemelerinde %10 iade, ayda 200 TL’ye kadar.",2025-10-01,2025-12-31,200,0,Kredi/Debit
+KMP_RST_001,Restoranda %20 İndirim,restaurant,"Restoranlarda %20 indirim, ayda 150 TL’ye kadar.",2025-10-01,2025-11-30,150,0,Kredi Kartı
+KMP_YKT_001,Akaryakıtta %8 İndirim,fuel,"Akaryakıtta %8 indirim, ayda 100 TL’ye kadar.",2025-10-01,2026-01-31,100,0,Kredi Kartı
+KMP_ECM_001,E-Ticaret Günleri 250 TL Bonus,ecommerce,Seçili e-ticaret sitelerinde 2500 TL’ye 250 TL bonus.,2025-11-01,2025-11-30,250,2500,Kredi Kartı
+KMP_ELK_001,Elektronikte %5 İade (Aylık 300 TL),electronics,"Elektronikte %5 iade, ayda 300 TL’ye kadar.",2025-11-01,2025-12-31,300,0,Kredi Kartı
+KMP_UTL_001,Elektrik Talimatına 30 TL,utilities,Elektrik faturasına otomatik talimata 30 TL bonus.,2025-10-01,2025-12-31,30,0,Hesap
+KMP_HLT_001,Eczanede %7 İndirim,health,"Eczanelerde %7 indirim, ayda 100 TL’ye kadar.",2025-10-01,2025-12-31,100,0,Kredi Kartı

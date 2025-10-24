@@ -1,0 +1,50 @@
+{
+  "market": [
+    "market",
+    "bonus",
+    "alışveriş",
+    "%5",
+    "150"
+  ],
+  "transport": [
+    "ulaşım",
+    "taksi",
+    "toplu taşıma",
+    "%10",
+    "iade"
+  ],
+  "restaurant": [
+    "restoran",
+    "%20",
+    "indirim",
+    "yemek"
+  ],
+  "fuel": [
+    "akaryakıt",
+    "istasyon",
+    "%8"
+  ],
+  "ecommerce": [
+    "e-ticaret",
+    "online",
+    "250 TL"
+  ],
+  "electronics": [
+    "elektronik",
+    "%5",
+    "iade",
+    "mağaza"
+  ],
+  "utilities": [
+    "fatura",
+    "talimat",
+    "elektrik",
+    "internet",
+    "otomatik"
+  ],
+  "health": [
+    "eczane",
+    "%7",
+    "indirim"
+  ]
+}

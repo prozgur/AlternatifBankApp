@@ -1,0 +1,57 @@
+{
+  "profil": {
+    "ad": "Demo Kullanıcı",
+    "musteri_no": "12345678",
+    "segman": "Bireysel",
+    "zaman": "2025-10-24T10:21:02"
+  },
+  "hesaplar": [
+    {
+      "iban": "TR12000620002000000678901",
+      "ad": "Vadesiz TL",
+      "para_birimi": "TRY",
+      "bakiye": 12345.67
+    },
+    {
+      "iban": "TR12000620002000000678902",
+      "ad": "Vadesiz USD",
+      "para_birimi": "USD",
+      "bakiye": 1234.56
+    }
+  ],
+  "kartlar": [
+    {
+      "kart_no_maskeli": "5346 12** **** 7845",
+      "kart_tipi": "Kredi Kartı",
+      "limit": 20000.0,
+      "kullanilabilir_limit": 16750.0,
+      "donem_borcu": 3250.0,
+      "son_odeme_tarihi": "2025-11-05",
+      "asgari_tutar": 975.0
+    }
+  ],
+  "kayitli_alicilar": [
+    {
+      "ad": "Ahmet",
+      "iban": "TR330006100519786457841326"
+    },
+    {
+      "ad": "Emel",
+      "iban": "TR520006100519786457841327"
+    }
+  ],
+  "faturalar": [
+    {
+      "kurum": "Elektrik A.Ş.",
+      "abonelik_no": "ELK-99887766",
+      "otomatik_talimat": true,
+      "son_fatura_tutari": 420.5
+    },
+    {
+      "kurum": "İnternetNet",
+      "abonelik_no": "INT-44556677",
+      "otomatik_talimat": false,
+      "son_fatura_tutari": 299.9
+    }
+  ]
+}

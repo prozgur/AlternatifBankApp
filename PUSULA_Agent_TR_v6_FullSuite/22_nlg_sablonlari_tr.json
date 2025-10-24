@@ -1,0 +1,14 @@
+{
+  "selam": "Merhaba! Nasıl yardımcı olabilirim?",
+  "bakiye": "{hesap} hesabınızda {bakiye} {pb}.",
+  "kart_borcu": "Kart dönem borcunuz {borc} TL; son ödeme tarihi {tarih}; asgari tutar {asgari} TL.",
+  "altin_bugun": "Gram altın bugün {bugun} TL; düne göre {delta_abs} {yon} (%{pct_abs}). (demo)",
+  "fiyat_bugun": "{sembol} bugün {bugun} {birim}; düne göre {delta_abs} {yon} (%{pct_abs}). (demo)",
+  "kampanya_kisa": "{kat} kampanyaları: {m1}; {m2}; {m3}.",
+  "para_iban": "Elbette. Lütfen Ahmet’in IBAN’ını okuyun.",
+  "para_tutar": "Göndermek istediğiniz tutarı söyleyin.",
+  "para_aciklama": "Açıklama eklemek ister misiniz? İstemiyorsanız 'atla' diyebilirsiniz.",
+  "para_hiz": "İşlem hızını seçin: NORMAL mi HIZLI (FAST) mı?",
+  "para_gerekce": "Bu parayı neden gönderiyorsunuz?",
+  "risk_blok": "Güvenlik nedeniyle işlemi durdurdum. Şubeden onay alabiliriz."
+}

@@ -1,0 +1,108 @@
+{
+  "market": [
+    {
+      "kampanya_id": "KMP_MKT_001",
+      "baslik": "Market Harcamasına 150 TL Bonus",
+      "tek_cumle_ozet": "Ekim boyunca 500 TL market alışverişine 150 TL bonus.",
+      "baslangic": "2025-10-01",
+      "bitis": "2025-10-31",
+      "bonus_tl": "150",
+      "min_harcama_tl": "500",
+      "kanal": "Kredi Kartı"
+    },
+    {
+      "kampanya_id": "KMP_MKT_002",
+      "baslik": "Marketlerde %5 İade (Aylık 200 TL)",
+      "tek_cumle_ozet": "Market ödemelerinde %5 iade, ayda 200 TL’ye kadar.",
+      "baslangic": "2025-11-01",
+      "bitis": "2026-01-31",
+      "bonus_tl": "200",
+      "min_harcama_tl": "0",
+      "kanal": "Kredi/Debit"
+    }
+  ],
+  "transport": [
+    {
+      "kampanya_id": "KMP_TRN_001",
+      "baslik": "Ulaşımda %10 Para İadesi",
+      "tek_cumle_ozet": "Ulaşım ödemelerinde %10 iade, ayda 200 TL’ye kadar.",
+      "baslangic": "2025-10-01",
+      "bitis": "2025-12-31",
+      "bonus_tl": "200",
+      "min_harcama_tl": "0",
+      "kanal": "Kredi/Debit"
+    }
+  ],
+  "restaurant": [
+    {
+      "kampanya_id": "KMP_RST_001",
+      "baslik": "Restoranda %20 İndirim",
+      "tek_cumle_ozet": "Restoranlarda %20 indirim, ayda 150 TL’ye kadar.",
+      "baslangic": "2025-10-01",
+      "bitis": "2025-11-30",
+      "bonus_tl": "150",
+      "min_harcama_tl": "0",
+      "kanal": "Kredi Kartı"
+    }
+  ],
+  "fuel": [
+    {
+      "kampanya_id": "KMP_YKT_001",
+      "baslik": "Akaryakıtta %8 İndirim",
+      "tek_cumle_ozet": "Akaryakıtta %8 indirim, ayda 100 TL’ye kadar.",
+      "baslangic": "2025-10-01",
+      "bitis": "2026-01-31",
+      "bonus_tl": "100",
+      "min_harcama_tl": "0",
+      "kanal": "Kredi Kartı"
+    }
+  ],
+  "ecommerce": [
+    {
+      "kampanya_id": "KMP_ECM_001",
+      "baslik": "E-Ticaret Günleri 250 TL Bonus",
+      "tek_cumle_ozet": "Seçili e-ticaret sitelerinde 2500 TL’ye 250 TL bonus.",
+      "baslangic": "2025-11-01",
+      "bitis": "2025-11-30",
+      "bonus_tl": "250",
+      "min_harcama_tl": "2500",
+      "kanal": "Kredi Kartı"
+    }
+  ],
+  "electronics": [
+    {
+      "kampanya_id": "KMP_ELK_001",
+      "baslik": "Elektronikte %5 İade (Aylık 300 TL)",
+      "tek_cumle_ozet": "Elektronikte %5 iade, ayda 300 TL’ye kadar.",
+      "baslangic": "2025-11-01",
+      "bitis": "2025-12-31",
+      "bonus_tl": "300",
+      "min_harcama_tl": "0",
+      "kanal": "Kredi Kartı"
+    }
+  ],
+  "utilities": [
+    {
+      "kampanya_id": "KMP_UTL_001",
+      "baslik": "Elektrik Talimatına 30 TL",
+      "tek_cumle_ozet": "Elektrik faturasına otomatik talimata 30 TL bonus.",
+      "baslangic": "2025-10-01",
+      "bitis": "2025-12-31",
+      "bonus_tl": "30",
+      "min_harcama_tl": "0",
+      "kanal": "Hesap"
+    }
+  ],
+  "health": [
+    {
+      "kampanya_id": "KMP_HLT_001",
+      "baslik": "Eczanede %7 İndirim",
+      "tek_cumle_ozet": "Eczanelerde %7 indirim, ayda 100 TL’ye kadar.",
+      "baslangic": "2025-10-01",
+      "bitis": "2025-12-31",
+      "bonus_tl": "100",
+      "min_harcama_tl": "0",
+      "kanal": "Kredi Kartı"
+    }
+  ]
+}

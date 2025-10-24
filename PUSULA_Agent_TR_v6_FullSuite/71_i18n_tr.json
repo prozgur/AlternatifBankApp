@@ -1,0 +1,18 @@
+{
+  "common": {
+    "greeting": "Merhaba! Nasıl yardımcı olabilirim?"
+  },
+  "upload": {
+    "greeting": "Dosyalar yüklendi. Bunlarla nasıl yardımcı olabilirim?",
+    "hint": "Yüklediğiniz içeriklerle ilgili doğrudan soru sorabilirsiniz."
+  },
+  "chat": {
+    "placeholder": "Mesajınızı yazın…",
+    "speaking": "Dinliyorum…"
+  },
+  "actions": {
+    "send": "Gönder",
+    "cancel": "İptal",
+    "retry": "Tekrar dene"
+  }
+}

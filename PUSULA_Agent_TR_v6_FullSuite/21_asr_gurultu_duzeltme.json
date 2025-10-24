@@ -1,0 +1,30 @@
+{
+  "yanlis_to_dogru": {
+    "bugün altına kadar": "bugün altın ne kadar",
+    "bugun altina kadar": "bugün altın ne kadar",
+    "altına kadar": "altın ne kadar",
+    "bugün altına": "bugün altın",
+    "et": "eft",
+    "eft mi": "eft",
+    "cool payla": "google pay ile",
+    "usd tl": "usd try",
+    "euro tl": "eur try",
+    "gram altın ne kadar": "gram altın bugün ne kadar"
+  },
+  "sorunlu_kelimeler_ipucu": [
+    "polis",
+    "savcı",
+    "acil",
+    "çekiliş",
+    "hediye",
+    "kripto",
+    "usdt",
+    "cüzdan",
+    "kaza",
+    "hastane",
+    "gizli"
+  ],
+  "dilimleyici": {
+    "max_soru_uzunluk": 1
+  }
+}

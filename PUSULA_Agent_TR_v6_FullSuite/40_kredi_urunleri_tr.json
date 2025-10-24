@@ -1,0 +1,27 @@
+{
+  "as_of": "2025-10-24T10:21:02",
+  "uyari": "SENTETİK DEMO — gerçek oranlar değildir.",
+  "urunler": {
+    "ihtiyac": {
+      "faiz_yillik_yuzde": 36.0,
+      "vade_min_ay": 3,
+      "vade_max_ay": 36,
+      "masraf_yuzde": 0.5,
+      "aciklama": "Gelir belgesi ve kimlik gerekli."
+    },
+    "tasit": {
+      "faiz_yillik_yuzde": 32.0,
+      "vade_min_ay": 6,
+      "vade_max_ay": 60,
+      "masraf_yuzde": 0.4,
+      "aciklama": "Araç proforma faturası ve teminat gerekebilir."
+    },
+    "konut": {
+      "faiz_yillik_yuzde": 24.0,
+      "vade_min_ay": 12,
+      "vade_max_ay": 120,
+      "masraf_yuzde": 0.35,
+      "aciklama": "Ekspertiz ve ipotek süreçleri uygulanır."
+    }
+  }
+}

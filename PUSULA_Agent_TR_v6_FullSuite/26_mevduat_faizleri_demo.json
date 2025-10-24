@@ -1,0 +1,28 @@
+{
+  "as_of": "2025-10-24T10:21:02",
+  "uyari": "SENTETİK DEMO — gerçek oranlar değildir.",
+  "tl_vadeli": [
+    {
+      "vade_gun": 32,
+      "faiz_yillik_yuzde": 45.0
+    },
+    {
+      "vade_gun": 92,
+      "faiz_yillik_yuzde": 43.0
+    },
+    {
+      "vade_gun": 181,
+      "faiz_yillik_yuzde": 41.0
+    }
+  ],
+  "usd_vadeli": [
+    {
+      "vade_gun": 32,
+      "faiz_yillik_yuzde": 3.0
+    },
+    {
+      "vade_gun": 92,
+      "faiz_yillik_yuzde": 3.5
+    }
+  ]
+}

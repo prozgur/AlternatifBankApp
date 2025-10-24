@@ -1,0 +1,28 @@
+openapi: 3.0.1
+info: {title: PUSULA Araçları (TR Demo), version: 1.3.0}
+servers: [{url: https://<FONKSIYON-URLINIZ>}]
+paths:
+  /vision/ocr:
+    post: {operationId: ocr, requestBody: {required: true, content: {application/json: {schema: {type: object, required: [image_base64], properties: {image_base64: {type: string}}}}}}, responses: {"200": {description: OK}}}
+  /vision/summarize:
+    post: {operationId: ozet, requestBody: {required: true, content: {application/json: {schema: {type: object, required: [text], properties: {text: {type: string}}}}}}, responses: {"200": {description: OK}}}
+  /risk/interview:
+    post: {operationId: risk_mulakati, requestBody: {required: true, content: {application/json: {schema: {type: object, required: [answer], properties: {answer: {type: string}}}}}}, responses: {"200": {description: OK}}}
+  /payments/simulate:
+    post: {operationId: odeme_simulasyonu, requestBody: {required: true, content: {application/json: {schema: {type: object, required: [alici_iban, tutar_try], properties: {alici_iban: {type: string}, tutar_try: {type: number}, aciklama: {type: string}}}}}}, responses: {"200": {description: OK}}}
+  /loan/calc:
+    post:
+      summary: Aylık taksit hesapla (annuite)
+      operationId: kredi_hesapla
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [urun, tutar_try, vade_ay]
+              properties:
+                urun: {type: string, enum: [ihtiyac, tasit, konut]}
+                tutar_try: {type: number}
+                vade_ay: {type: integer}
+      responses: {"200": {description: OK}}
